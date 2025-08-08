@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.main-box{
+    display: flex;
+}
+.box{
+    background: blueviolet;
+    border-radius: 10px;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+main-box{
+    gap:15 px;
+flex-warp:warp;
+}
+
+.babita{
+    background: aqua;
+    padding: 40px 20px;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    background: red;
+    padding: 15px 35px;
+    border: 0;
+border-radius: 5px;
+margin: 10px 0;
+}
+ul{
+    margin-left: 30px;
+    margin-top: 30px;
+}
